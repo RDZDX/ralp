@@ -1,2 +1,2 @@
-# Ralp - Rom app launcher primitive
+# Ralp - rom app launcher primitive
 Rom app launcher primitive
