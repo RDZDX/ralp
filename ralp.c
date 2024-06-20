@@ -32,8 +32,6 @@ void run(void) {
     //VMCHAR MyApp[100] = "\\271498044.rom"; // The amazing spider-man
     //VMCHAR MyApp[100] = "\\273520720.rom"; // Real football 2015
 
-
-
     vm_ascii_to_ucs2(f_wname, (strlen(MyApp) + 1) * 2, MyApp);
     vm_start_app(f_wname, 0, 0);
     vm_create_timer_ex(10,timer);
