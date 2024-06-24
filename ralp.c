@@ -23,7 +23,7 @@ void timer(int a) {
 }
 
 /*---------------------------------------
-Nokia 225 single sim:
+Nokia 225 single sim RM-1012, V30.06.11, 21-07-15 :
 "\\271123656.rom" - Facebook messanger +
 "\\271139084.rom" - Facebook +
 "\\271305228.rom" - Twitter +
@@ -35,7 +35,7 @@ Nokia 225 single sim:
 "\\273336536.rom" - Real football 2015 +
 "\\274013860.rom" - The amazing spider-man +
 
-Nokia 225 double sim:
+Nokia 225 double sim RM-1011, V30.06.11, 21-07-15 :
 "\\271307840.rom" - Facebook messanger
 "\\271323268.rom" - Facebook
 "\\271489412.rom" - Twitter
@@ -47,7 +47,7 @@ Nokia 225 double sim:
 "\\271498044.rom" - The amazing spider-man
 "\\273520720.rom" - Real football 2015
 
-Nokia 225 single sim old:
+Nokia 225 single sim RM-1012, V21.00.11, 18-08-14 :
 "//271297640.rom" - Yahoo messanger
 "//273990116.rom" - Games
 "//274351780.rom" - Facebook
