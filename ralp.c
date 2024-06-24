@@ -24,16 +24,16 @@ void timer(int a) {
 
 /*---------------------------------------
 Nokia 225 single sim RM-1012, V30.06.11, 21-07-15 :
-"\\271123656.rom" - Facebook messanger +
-"\\271139084.rom" - Facebook +
-"\\271305228.rom" - Twitter +
-"\\271543384.rom" - Opera +
-"\\273716508.rom" - Games +
-"\\272222672.rom" - Asphalt 6 adrenaline +
-"\\272643436.rom" - Block breaker unlimited +
-"\\272966676.rom" - Modern combat 2 black pegasus +
-"\\273336536.rom" - Real football 2015 +
-"\\274013860.rom" - The amazing spider-man +
+"\\271123656.rom" - Facebook messanger
+"\\271139084.rom" - Facebook
+"\\271305228.rom" - Twitter
+"\\271543384.rom" - Opera
+"\\273716508.rom" - Games
+"\\272222672.rom" - Asphalt 6 adrenaline
+"\\272643436.rom" - Block breaker unlimited
+"\\272966676.rom" - Modern combat 2 black pegasus
+"\\273336536.rom" - Real football 2015
+"\\274013860.rom" - The amazing spider-man
 
 Nokia 225 double sim RM-1011, V30.06.11, 21-07-15 :
 "\\271307840.rom" - Facebook messanger
